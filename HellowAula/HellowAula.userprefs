@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="HellowAula\HellowAula.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HellowAula\Program.cs">
+    <Files>
+      <File FileName="HellowAula\Program.cs" Line="1" Column="3" />
+      <File FileName="HellowAula\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

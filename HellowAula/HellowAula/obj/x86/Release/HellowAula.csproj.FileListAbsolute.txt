@@ -1,0 +1,4 @@
+E:\aula\primeri\primeri.csharp.terminal1\HellowAula\HellowAula\bin\Release\HellowAula.exe
+E:\aula\primeri\primeri.csharp.terminal1\HellowAula\HellowAula\bin\Release\HellowAula.pdb
+E:\aula\primeri\primeri.csharp.terminal1\HellowAula\HellowAula\obj\x86\Release\HellowAula.exe
+E:\aula\primeri\primeri.csharp.terminal1\HellowAula\HellowAula\obj\x86\Release\HellowAula.pdb
